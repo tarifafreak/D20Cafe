@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Welcome to the D20 Tavern</string>
+    <string name="CompanyAddress">Where to find us:\n20 Dungeon Street, 12345 Easthaven </string>
+    <string name="CompanyDescription">Welcome, dear traveller! \nWe proudly present Faerûn´s first Role Playing Café… \nThe home of Elves, Orcs, Dwarves and Trolls!\nThe place where you really can be all what you ever wanted to be…</string>
+    <string name="CompanyPhone">How to contact us:\n+42 123456789</string>
+    <string name="CompanyMail">info@d20cafe.com</string>
+    <string name="CompanyURL">www.d20cafe.com</string>
+    <string name="CompanyOpeningHours">Opening hours:\nTue - Fri: 3 p.m. - 11 p.m.\nSat - Sun: 3 p.m. - 1 a.m. </string>
+
+</resources>
